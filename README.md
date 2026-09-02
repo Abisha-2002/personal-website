@@ -1,6 +1,5 @@
 # Wesly Jeyananthan Abisha - Personal Portfolio
 
-
 ## 👋 About Me
 
 Hi! I am a **BSc (Hons) Information Technology undergraduate** at **Horizon Campus**. I am currently learning and improving my skills in web development and programming.
